@@ -2,9 +2,9 @@
 
 Formado em Analise e Desenvolvimento de Sistemas pelo Cotemig (Belo Horizonte/MG), em transicao de carreira para a area de dados e Inteligencia Artificial. Base solida em logica de programacao, banco de dados e desenvolvimento web, aprofundando agora conhecimentos em Python, analise de dados e IA aplicada.
 
-• Formacao: Analise e Desenvolvimento de Sistemas - Cotemig (2025)
-• Localizacao: Belo Horizonte, MG
-• Estudando atualmente: Python, dados e Machine Learning
+• Formacao: Analise e Desenvolvimento de Sistemas - Cotemig (2025)<br>
+• Localizacao: Belo Horizonte, MG<br>
+• Estudando atualmente: Python, dados e Machine Learning<br>
 • Cursos: Anthropic Academy (Claude 101, Claude Code 101)
 
 #### Stack e ferramentas
@@ -18,8 +18,8 @@ Formado em Analise e Desenvolvimento de Sistemas pelo Cotemig (Belo Horizonte/MG
 
 #### Projetos em destaque
 
-• [projetos-cotemig](https://github.com/rubensmoutinhooo-png/projetos-cotemig) — projetos academicos do curso de ADS (Cotemig): CRUD, estoque, site, logica, SQL e analise de dados
-• [projeto-arodev](https://github.com/rubensmoutinhooo-png/projeto-arodev) — projeto pessoal
+• [projetos-cotemig](https://github.com/rubensmoutinhooo-png/projetos-cotemig) — projetos academicos do curso de ADS (Cotemig): CRUD, estoque, site, logica, SQL e analise de dados<br>
+• [projeto-arodev](https://github.com/rubensmoutinhooo-png/projeto-arodev) — projeto pessoal<br>
 • [agente-ia-protocolo](https://github.com/rubensmoutinhooo-png/agente-ia-protocolo) — projeto pessoal
 
 #### Contato
